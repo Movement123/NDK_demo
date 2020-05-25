@@ -2,11 +2,24 @@
 //
 
 #include "CMakeProject1.h"
+extern "C"{
+ #include "a.h"
+}
+
 
 using namespace std;
 
 int main()
 {
-	cout << "Hello CMake." << endl;
+
+	int i = 10;
+	int& j = i;
+
+	printf("i的地址：%#x ,j的地址：%#x \n" ,&i,&j);
+
+	//test_c();
+	//cout << "Hello CMake." << endl;
+
+	system("pause");
 	return 0;
 }

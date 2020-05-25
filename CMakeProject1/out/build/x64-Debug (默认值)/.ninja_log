@@ -1,0 +1,20 @@
+# ninja log v5
+0	566	612114823	CMakeProject1/CMakeFiles/CMakeProject1.dir/CMakeProject1.cpp.obj	6a3e8de962770e3d
+571	861	612114824	CMakeProject1/CMakeProject1.exe	eb14d2734b35e990
+0	283	612115166	CMakeProject1/CMakeFiles/CMakeProject1.dir/CMakeProject1.cpp.obj	6a3e8de962770e3d
+0	285	612115203	CMakeProject1/CMakeFiles/CMakeProject1.dir/CMakeProject1.cpp.obj	6a3e8de962770e3d
+0	36	612115252	CMakeProject1/CMakeFiles/CMakeProject1.dir/a.c.obj	1c2bdb510df3bbd2
+37	195	612115252	CMakeProject1/CMakeProject1.exe	8b1ddac1facf50cf
+1	283	612115272	CMakeProject1/CMakeFiles/CMakeProject1.dir/CMakeProject1.cpp.obj	6a3e8de962770e3d
+1	46	612115339	CMakeProject1/CMakeFiles/CMakeProject1.dir/a.c.obj	1c2bdb510df3bbd2
+0	37	612115394	CMakeProject1/CMakeFiles/CMakeProject1.dir/a.c.obj	1c2bdb510df3bbd2
+8	43	612115430	CMakeProject1/CMakeFiles/CMakeProject1.dir/a.c.obj	1c2bdb510df3bbd2
+0	284	612115430	CMakeProject1/CMakeFiles/CMakeProject1.dir/CMakeProject1.cpp.obj	6a3e8de962770e3d
+0	37	612115868	CMakeProject1/CMakeFiles/CMakeProject1.dir/a.c.obj	1c2bdb510df3bbd2
+0	37	612115966	CMakeProject1/CMakeFiles/CMakeProject1.dir/a.c.obj	1c2bdb510df3bbd2
+1	284	612116018	CMakeProject1/CMakeFiles/CMakeProject1.dir/CMakeProject1.cpp.obj	6a3e8de962770e3d
+284	426	612116018	CMakeProject1/CMakeProject1.exe	8b1ddac1facf50cf
+0	541	612117385	CMakeProject1/CMakeFiles/CMakeProject1.dir/CMakeProject1.cpp.obj	6a3e8de962770e3d
+541	680	612117385	CMakeProject1/CMakeProject1.exe	8b1ddac1facf50cf
+0	287	612117432	CMakeProject1/CMakeFiles/CMakeProject1.dir/CMakeProject1.cpp.obj	6a3e8de962770e3d
+288	425	612117432	CMakeProject1/CMakeProject1.exe	8b1ddac1facf50cf
